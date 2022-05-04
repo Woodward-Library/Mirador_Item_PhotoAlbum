@@ -52,7 +52,7 @@ Mirador.viewer({
   windows: [
     {
       "loadedManifest": "https://iiif.library.ubc.ca/presentation/cdm.langmann.1-0053437/manifest",
-      "canvasIndex": 0,
+      "canvasIndex": 2,
       sideBarOpen: false,
      view:'single',
     }
